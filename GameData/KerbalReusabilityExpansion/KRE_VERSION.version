@@ -1,7 +1,7 @@
 {
 	"NAME": "<b>Kerbal Reusability Expansion</b>",
-	"URL": "https://raw.githubusercontent.com/damonvv/TundraExploration/master/GameData/TundraExploration/Versioning/TundraExploration.version",
-	"DOWNLOAD": "https://forum.kerbalspaceprogram.com/index.php?/topic/166915-131-tundra-exploration",
+	"URL": "https://raw.githubusercontent.com/damonvv/Kerbal-Reusability-Expansion/master/GameData/KerbalReusabilityExpansion/KRE_VERSION.version",
+	"DOWNLOAD": "https://spacedock.info/mod/841/Kerbal%20Reusability%20Expansion",
 	"VERSION":
 	{
 		"MAJOR": 2,
